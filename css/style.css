@@ -1,0 +1,39 @@
+
+.main{
+    margin-left: 80vh;
+    margin-top: 20vh;
+    
+    
+}
+
+
+.total{
+    margin-left: 80vh;
+    margin-top: 2vh;
+    position: absolute;
+}
+
+
+
+
+
+body{
+    background-color: maroon;
+}
+
+#particle{
+    height: 100%;
+}
+
+.count-particles{
+  position: absolute;
+  color: lightgoldenrodyellow;
+  text-align: left;
+  text-indent: 4px;
+  line-height: 14px;
+  padding-bottom: 2px;
+  font-weight: bold;
+    font-family:cursive;
+    
+}
+
